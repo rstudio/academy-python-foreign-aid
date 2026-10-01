@@ -1,0 +1,10 @@
+country,year,region,income_group,absence_of_corruption,business_investment_environment,child_health,civil_society_media_effectiveness,economic_gender_gap,education_quality,environmental_policy,gdp_per_capita_(ppp),government_effectiveness,liberal_democracy,open_government,safety_security,social_group_equality,trade_freedom,export_sophistication,information_communication_technology_(ict)_adoption,poverty_rate,tax_system_effectiveness,child_lag,child_pct_change
+Fiji,2013,Oceania,UMIC,,,0.93,0.497,0.433,,,0.537,0.346,0.119,,,0.683,,,,0.701,0.433,,
+Fiji,2014,Oceania,UMIC,,,0.935,0.606,0.44,,,0.548,0.447,0.165,,,0.705,,,,,0.454,0.93,0.5376344086021511
+Fiji,2015,Oceania,UMIC,,,0.94,0.683,,,,0.556,0.463,0.303,,,0.761,,,,,0.485,0.935,0.5347593582887586
+Fiji,2016,Oceania,UMIC,,,0.944,0.668,0.394,,,0.56,0.472,0.306,,,0.761,,,,,0.505,0.94,0.42553191489361747
+Fiji,2017,Oceania,UMIC,,,0.948,0.686,0.567,,,0.569,0.54,0.316,,,0.778,0.526,,,,0.526,0.944,0.42372881355932246
+Fiji,2018,Oceania,UMIC,,,0.948,0.674,0.54,,,0.575,0.585,0.312,,,0.778,0.416,,,,0.505,0.948,0.0
+Fiji,2019,Oceania,UMIC,,,0.949,0.668,0.518,,,0.573,0.567,0.296,,,0.778,0.234,,,0.567,0.464,0.948,0.10548523206751065
+Fiji,2020,Oceania,UMIC,,,0.948,0.683,,0.44,,0.539,0.589,0.297,,,0.664,0.274,,,,0.711,0.949,-0.1053740779768178
+Fiji,2021,Oceania,UMIC,,,,0.661,0.543,,,0.529,,0.296,,,0.659,0.277,,,,,0.948,
